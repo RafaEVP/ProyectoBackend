@@ -1,0 +1,35 @@
+[
+    {
+        "id": "4e99707f-09ca-4a97-914b-187b3502a359",
+        "title": "Carro 1",
+        "description": "Sedan Rojo",
+        "price": "40000",
+        "thumbnail": "https://media.istockphoto.com/id/495605964/es/foto/gen%C3%A9rico-compacto-de-red.jpg?s=612x612&w=0&k=20&c=RX1--5atyK40fwmI2fvj2aBbpfWOfV49mwr4Xevhzn8=",
+        "code": "57ABC81",
+        "stock": "4",
+        "category": "Atumovil",
+        "status": true
+    },
+    {
+        "id": "4a1e6aca-a4a0-4221-a9a2-4cdc8282abb5",
+        "title": "Carro 2",
+        "description": "SUV Negra",
+        "price": "70000",
+        "thumbnail": "https://media.istockphoto.com/id/495605964/es/foto/gen%C3%A9rico-compacto-de-red.jpg?s=612x612&w=0&k=20&c=RX1--5atyK40fwmI2fvj2aBbpfWOfV49mwr4Xevhzn8=",
+        "code": "35ZKC81",
+        "stock": "2",
+        "category": "Atumovil",
+        "status": true
+    },
+    {
+        "id": "4a7af085-4c79-4a9d-a9fa-778742ee525f",
+        "title": "Carro 3",
+        "description": "Coupe Amarillo",
+        "price": "135000",
+        "thumbnail": "https://media.istockphoto.com/id/495605964/es/foto/gen%C3%A9rico-compacto-de-red.jpg?s=612x612&w=0&k=20&c=RX1--5atyK40fwmI2fvj2aBbpfWOfV49mwr4Xevhzn8=",
+        "code": "MAIMI756",
+        "stock": "1",
+        "category": "Atumovil",
+        "status": true
+    }
+]
